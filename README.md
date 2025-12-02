@@ -70,7 +70,7 @@ Modify or enhance the report as needed
 Feel free to fork this repository, open issues, or submit pull requests.
 Suggestions and improvements are always welcome!
 
-📎 Connect With Me
-
+📎 Connect With Me 
+If you find this project helpful, connect with me on LinkedIn! (https://www.linkedin.com/in/jagruti-kasliwal-6a89a3330/)
 If you find this project helpful, connect with me on LinkedIn!
 (https://www.linkedin.com/in/jagruti-kasliwal-6a89a3330/)
