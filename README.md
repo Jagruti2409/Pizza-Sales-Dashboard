@@ -62,10 +62,8 @@ Explore the dashboard using slicers and visuals
 
 Modify or enhance the report as needed
 
-📸 Screenshots (Add after uploading images)
+📸 Screenshots (https://github.com/Jagruti2409/Pizza-Sales-Dashboard/blob/main/Pizza%20Sales%20Dashboard%20SS.png)
 
-(Upload images to your GitHub → Copy image links → Paste below)
-Example:
 
 📬 Feedback & Contributions
 
@@ -75,4 +73,4 @@ Suggestions and improvements are always welcome!
 📎 Connect With Me
 
 If you find this project helpful, connect with me on LinkedIn!
-(Add your LinkedIn link here)
+(https://www.linkedin.com/in/jagruti-kasliwal-6a89a3330/)
